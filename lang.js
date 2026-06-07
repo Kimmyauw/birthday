@@ -4,7 +4,7 @@
 const translations = {
     en: {
         title: "Happy Birthday Kimmy 🎁",
-        description: "A special birthday surprise for Zahra! Click to see the special message!",
+        description: "A special birthday surprise for Kimmy! Click to see the special message!",
         login: "Sign in with Google",
         logout: "Logout",
         settings: "Website Settings",

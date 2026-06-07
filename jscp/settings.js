@@ -336,7 +336,7 @@ function initializeDefaultSettings() {
         matrixText: 'HAPPYBIRTHDAY',
         matrixColor1: '#ff69b4', // Pink color
         matrixColor2: '#ff1493', // Pink color
-        sequence: 'HAPPY|BIRTHDAY|TO|YOU|ZAHRA|❤',
+        sequence: 'HAPPY|BIRTHDAY|TO|YOU|KIMMY|❤',
         sequenceColor: '#ff69b4', // Pink color
         gift: '', // No sticker/GIF
         enableBook: true,
